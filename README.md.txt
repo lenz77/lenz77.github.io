@@ -38,4 +38,8 @@ It's about my experience in learning programming.
 11. `text-align`
 12. `background-image`
 13. `background-color`
-14.
+
+
+**Future Plans**
+
+Started my career as a professional full stack developer
